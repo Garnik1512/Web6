@@ -1,0 +1,42 @@
+body {
+    background-image: url(./1.png);
+}
+header .home p a {
+  
+    display: inline-block;
+
+    height: 40px;
+    width: 200px;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+header .home p {
+    font-size: 70px;
+    color: brown;
+    background-color: gold;
+    border: 2px double;
+    width: 100%;
+    height: 150px;
+    margin: 0px 1px 15px 0px;
+    display: inline-block;
+}
+header .home p img {
+    border: double 12px; 
+    height: 100px;
+  
+    display: inline-block;
+   }
+  .progs p {
+      font-size: 50px;
+      font-family: sans-serif;
+      text-align: center;
+  } 
+  .progs ul {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(95, 24, 24);
+  }

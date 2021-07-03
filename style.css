@@ -1,0 +1,109 @@
+body {
+    background-image: url(./1.png);
+}
+header .home p a {
+    background-color: gold;
+    display: inline-block;
+    border: double 2px black ;
+    height: 40px;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(27, 44, 25);
+}
+header .home p {
+    font-size: 70px;
+    color: brown;
+    background-color: gold;
+    border: 2px double;
+    width: 100%;
+    height: 150px;
+    margin: 0px 1px 15px 0px;
+    display: inline-block;
+}
+header .home p img {
+ border: double 4px; 
+ height: 80px;
+margin: 15px 0px 0px 0px;
+ display: inline-block;
+}
+.torg77 {
+    text-align: center;
+    display: inline-block;
+    margin: 100px 500px 250px 250px;
+}
+.torg77 span {
+    font-size: 30px;
+}
+.torg77 p {
+    font-size: 20px;
+}
+.torg77 img{
+    height: 250px;
+}
+.torg8 {
+    text-align: center;
+    display: inline-block;
+    margin: 100px 50px 250px 50px;
+}
+.torg8 span {
+    font-size: 30px;
+}
+.torg8 p {
+    font-size: 20px;
+}
+.torg8 img{
+    height: 250px;
+}
+.bussines {
+    text-align: center;
+    display: inline-block;
+    margin: 100px 500px 250px 200px;
+}
+.bussines span {
+    font-size: 30px;
+}
+.bussines p {
+    font-size: 20px;
+}
+.bussines img{
+    height: 250px;
+}
+.calc {
+    text-align: center;
+    display: inline-block;
+    margin: 100px 50px 250px 50px;
+}
+.calc span {
+    font-size: 30px;
+}
+.calc p {
+    font-size: 20px;
+}
+.calc img{
+    height: 250px;
+}
+.course span {
+    color: red;
+    font-size: 75px;
+    text-align: center;
+}
+.course img {
+   
+    height: 100%;
+    text-align: center;
+    
+}
+.course p {
+    font-size: 30px;
+
+} 
+.course {
+    border: double 4px red;
+}
+main p {
+ font-size: 100px;
+}
